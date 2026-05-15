@@ -66,14 +66,4 @@ I'm a Software Architect from <strong>Santiago, Chile 🇨🇱</strong>, with ov
 
 ###
 
-<h3 align="left">🔥 My Stats & Activity</h3>
 
-<!-- Your existing stats section is perfect here -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherAedoP&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristopherAedoP&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <br>
-  <!--
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristopherAedoP&radius=16&theme=github-dark&area=true&hide_title=true&hide_border=true" width="100%" alt="activity-graph graph"  />
-  -->
-</div>
